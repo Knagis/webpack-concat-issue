@@ -1,3 +1,3 @@
-import { foo } from "./comp.js";
+import { d1a } from "./dep1";
 
-console.log(foo);
+d1a(123);

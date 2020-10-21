@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <iframe src="index2.html"></iframe>
+
+        this frame loads main.js<br>
+        <script>
+            window.onerror = (e) => document.body.appendChild(document.createTextNode("error"));
+        </script>
+
+        <script src="dist/commons.js"></script>
+        <script src="dist/main.js"></script>
+    </body>
+</html>

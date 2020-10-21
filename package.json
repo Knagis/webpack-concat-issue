@@ -1,11 +1,10 @@
 {
-  "name": "webpack-classnames",
+  "name": "webpack-issue-repro",
   "version": "1.0.0",
   "main": "src/index.js",
   "sideEffects": false,
   "license": "MIT",
   "dependencies": {
-    "classnames": "^2.2.6",
     "webpack": "^5.1.3",
     "webpack-cli": "^4.0.0"
   }

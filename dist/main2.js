@@ -2,26 +2,13 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 891:
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
-
-/* harmony export */ __webpack_require__.d(__webpack_exports__, {
-/* harmony export */   "d2": () => /* binding */ d2
-/* harmony export */ });
-function d2(a) {
-    console.log("d2 called", a);
-}
-
-
-/***/ }),
-
-/***/ 138:
+/***/ 51:
 /***/ ((__unused_webpack_module, __unused_webpack___webpack_exports__, __webpack_require__) => {
 
 /* harmony import */ var _dep1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(113);
 
 
-(0,_dep1__WEBPACK_IMPORTED_MODULE_0__/* .d1a */ .I)(123);
+(0,_dep1__WEBPACK_IMPORTED_MODULE_0__/* .d1b */ .N)(123);
 
 
 /***/ })
@@ -80,11 +67,11 @@ function d2(a) {
 /******/ 		// undefined = chunk not loaded, null = chunk preloaded/prefetched
 /******/ 		// Promise = chunk loading, 0 = chunk loaded
 /******/ 		var installedChunks = {
-/******/ 			179: 0
+/******/ 			869: 0
 /******/ 		};
 /******/ 		
 /******/ 		var deferredModules = [
-/******/ 			[138,351]
+/******/ 			[51,351]
 /******/ 		];
 /******/ 		// no chunk on demand loading
 /******/ 		
